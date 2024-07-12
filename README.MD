@@ -53,15 +53,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 
   
-    <p>Luciana Bordoan<br>
+  <p>&nbsp&nbsp&nbspLuciana Bordoan<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/lbordoan">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/luciana-bordoan-0931b013a/">LinkedIn</a>
-&nbsp;</p>
+&nbsp;|&nbsp;    
 </p>
-<br/><br/>
-<p>
-
 ---
 
