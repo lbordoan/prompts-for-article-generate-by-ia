@@ -22,7 +22,7 @@
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** repositório desenvolvido durante o curso com o objetivo de gerar um artigo na plataforma da [DIO](https://dio.me).
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
@@ -47,15 +47,18 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie 10 headlines para nomes de artigos sobre o Ux writing - Acessibilidade                                                                                                                                                                                                 |
+| conteúdo | Comporte-se como um redator técnico e escreva o Artigo atendendo as regras abaixo:{REGRAS}> Maximo 5 linhas por blocos de explicação > Os blocos que serão criados estão abaixo:- A importancia de se ter conteúdos inclusivos- ux writing pode ser acessível?
+- cite exemplos de textos inclusivos - cite ferramentas para contribuir com conteúdos inclusivos faça um call to action para as minhas redes sociais -coloque tres hashtags que façam sentido 
+
+ |
 
 
 Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• Angular
+• documentação técnica
 
 
 
